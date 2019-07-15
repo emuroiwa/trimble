@@ -1,0 +1,11 @@
+C:\Users\ernestm\source\repos\trimble\backend\AuthWebApi\bin\Debug\netcoreapp2.0\AuthWebApi.deps.json
+C:\Users\ernestm\source\repos\trimble\backend\AuthWebApi\bin\Debug\netcoreapp2.0\AuthWebApi.runtimeconfig.json
+C:\Users\ernestm\source\repos\trimble\backend\AuthWebApi\bin\Debug\netcoreapp2.0\AuthWebApi.runtimeconfig.dev.json
+C:\Users\ernestm\source\repos\trimble\backend\AuthWebApi\bin\Debug\netcoreapp2.0\AuthWebApi.dll
+C:\Users\ernestm\source\repos\trimble\backend\AuthWebApi\bin\Debug\netcoreapp2.0\AuthWebApi.pdb
+C:\Users\ernestm\source\repos\trimble\backend\AuthWebApi\obj\Debug\netcoreapp2.0\AuthWebApi.csprojAssemblyReference.cache
+C:\Users\ernestm\source\repos\trimble\backend\AuthWebApi\obj\Debug\netcoreapp2.0\AuthWebApi.csproj.CoreCompileInputs.cache
+C:\Users\ernestm\source\repos\trimble\backend\AuthWebApi\obj\Debug\netcoreapp2.0\AuthWebApi.AssemblyInfoInputs.cache
+C:\Users\ernestm\source\repos\trimble\backend\AuthWebApi\obj\Debug\netcoreapp2.0\AuthWebApi.AssemblyInfo.cs
+C:\Users\ernestm\source\repos\trimble\backend\AuthWebApi\obj\Debug\netcoreapp2.0\AuthWebApi.dll
+C:\Users\ernestm\source\repos\trimble\backend\AuthWebApi\obj\Debug\netcoreapp2.0\AuthWebApi.pdb
